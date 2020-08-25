@@ -16,12 +16,12 @@
     "require": {
         "php": "7.*",
         "guzzlehttp/guzzle": "*",
-        "lstrojny/fxmlrpc": "^0.15",
         "psr/log": "~1.0",
         "php-http/guzzle6-adapter": "*",
         "laminas/laminas-diactoros": "^2.3",
         "php-http/message": "*",
-        "php-http/curl-client": "*"
+        "php-http/curl-client": "*",
+        "lstrojny/fxmlrpc": "^0.15.0"
     },
     "require-dev": {
         "mockery/mockery": "*",
